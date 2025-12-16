@@ -1,1 +1,8 @@
+In this analysis, I explored the Iris dataset from sklearn.
+I focused on the relationship between sepal length and petal length.
 
+The scatter plot and correlation plot show a strong positive correlation:
+as sepal length increases, petal length also increases.
+
+The regression line clearly demonstrates this trend, indicating that
+these two features are closely related in the Iris dataset.
